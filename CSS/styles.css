@@ -1,0 +1,39 @@
+
+.nav{
+ display: flex;
+ justify-content: space-between;
+ background-color: rgb(88, 86, 86);
+ color: white;
+ font-family:cursive;
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.nav-links{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    align-items: center;
+}
+
+.nav-title, .nav-links{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-end: 0;
+    margin-inline-end: 0;
+}
+.btn{
+    color: white;
+    background-color: aqua;
+    cursor: pointer;
+    box-shadow: 4px 4px black;
+    border: none;
+}
+
+
+
+
+
